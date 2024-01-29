@@ -1,0 +1,14 @@
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\net8.0\ProgramacionParalelo.exe
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\net8.0\ProgramacionParalelo.deps.json
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\net8.0\ProgramacionParalelo.runtimeconfig.json
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\net8.0\ProgramacionParalelo.dll
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\net8.0\ProgramacionParalelo.pdb
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\net8.0\ProgramacionParalelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\net8.0\ProgramacionParalelo.AssemblyInfoInputs.cache
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\net8.0\ProgramacionParalelo.AssemblyInfo.cs
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\net8.0\ProgramacionParalelo.csproj.CoreCompileInputs.cache
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\net8.0\ProgramacionParalelo.dll
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\net8.0\refint\ProgramacionParalelo.dll
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\net8.0\ProgramacionParalelo.pdb
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\net8.0\ProgramacionParalelo.genruntimeconfig.cache
+C:\Users\anshi\source\repos\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\net8.0\ref\ProgramacionParalelo.dll

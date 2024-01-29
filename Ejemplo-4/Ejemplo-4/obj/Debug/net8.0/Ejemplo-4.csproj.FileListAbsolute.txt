@@ -1,0 +1,14 @@
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\bin\Debug\net8.0\Ejemplo-4.exe
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\bin\Debug\net8.0\Ejemplo-4.deps.json
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\bin\Debug\net8.0\Ejemplo-4.runtimeconfig.json
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\bin\Debug\net8.0\Ejemplo-4.dll
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\bin\Debug\net8.0\Ejemplo-4.pdb
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\obj\Debug\net8.0\Ejemplo-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\obj\Debug\net8.0\Ejemplo-4.AssemblyInfoInputs.cache
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\obj\Debug\net8.0\Ejemplo-4.AssemblyInfo.cs
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\obj\Debug\net8.0\Ejemplo-4.csproj.CoreCompileInputs.cache
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\obj\Debug\net8.0\Ejemplo-4.dll
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\obj\Debug\net8.0\refint\Ejemplo-4.dll
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\obj\Debug\net8.0\Ejemplo-4.pdb
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\obj\Debug\net8.0\Ejemplo-4.genruntimeconfig.cache
+C:\Users\anshi\source\repos\Ejemplo-4\Ejemplo-4\obj\Debug\net8.0\ref\Ejemplo-4.dll

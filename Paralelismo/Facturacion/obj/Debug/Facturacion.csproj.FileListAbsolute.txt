@@ -1,0 +1,10 @@
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\bin\Debug\Facturacion.exe.config
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\bin\Debug\Facturacion.exe
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\obj\Debug\Facturacion.csproj.AssemblyReference.cache
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\obj\Debug\Facturacion.Form1.resources
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.cache
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\obj\Debug\Facturacion.exe
+C:\Users\anshi\source\repos\Paralelismo\Facturacion\obj\Debug\Facturacion.pdb
